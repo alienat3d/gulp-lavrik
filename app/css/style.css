@@ -2,7 +2,11 @@
   box-sizing: border-box;
 }
 
-h1 {color: blue;}
+a:hover {
+  color: yellowgreen;
+}
+
+h1 {color: green;}
 
 .row:placeholder-shown {
   color: green;
